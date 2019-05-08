@@ -1,4 +1,4 @@
-This Python Jupyter-Notebook demonstrates the implementation of Gradient Descent from scratch and applied on Housing dataset. 
+This Python Jupyter-Notebook demonstrates the implementation of Gradient Descent from scratch applied on Housing dataset. 
 
 Dataset source :-
 https://www.kaggle.com/skrakesh5/hosuing-data-set
